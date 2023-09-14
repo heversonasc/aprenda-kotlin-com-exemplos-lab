@@ -13,7 +13,7 @@ data class Formacao(val nome: String, val conteudos: MutableList<ConteudoEducaci
 }
 
 fun main() {
-    // Criação de alguns objetos para simulação
+    
     val userA= User("Heverson")
     val userB = User("Dio")
 
